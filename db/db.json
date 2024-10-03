@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "gora",
+      "email": "4OwPw@example.com",
+      "password": "asep"
+    },
+    {
+      "id": "2",
+      "username": "asep",
+      "email": "4OwPwa@example.com",
+      "password": "gora"
+    },
+    {
+      "id": 0,
+      "username": "asd",
+      "email": "dsa@sad",
+      "password": "dsad"
+    },
+    {
+      "id": 0,
+      "username": "asddddddddddddddd",
+      "email": "sdf@asd",
+      "password": "asdasd"
+    },
+    {
+      "id": 0,
+      "username": "cuiasd",
+      "email": "asfghghfh@asdd",
+      "password": "asddvbgdf"
+    },
+    {
+      "id": 0,
+      "username": "asd",
+      "email": "asd@asd",
+      "password": "asd"
+    }
+  ]
+}
